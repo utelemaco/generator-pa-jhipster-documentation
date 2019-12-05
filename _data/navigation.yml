@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "About"
+    url: /about/
+  - title: "Documentation"
+    url: /docs/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +12,31 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+
+pages:
+  - title: "Process Awareness Web App"
+    url: /process-awareness-web-app/
+  - title: "About"
+    url: /about/
+  - title: "License"
+    url: /license/
+
+
+
+  # documentation links
+docs:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Web App Architecture"
+        url: /docs/web-app-architecture/
+  - title: Examples
+    children:
+      - title: "Blueprint Example"
+        url: /docs/blueprint-example/
+      - title: "Service Tasks"
+        url: /docs/service-tasks/  
+      - title: "Gateways"
+        url: /docs/gateways/  
