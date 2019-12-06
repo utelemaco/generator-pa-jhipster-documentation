@@ -6,9 +6,9 @@ header:
   overlay_image: /assets/images/mm-home-page-feature.jpg
   actions:
     - label: " Learn More "
-      url: "/about/"
+      url: "/about"
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+      url: "/docs/quick-start-guide"
 excerpt: >
   A JHipster generator to scaffold process awareness web application.<br />
   <!-- <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small> -->
