@@ -1,6 +1,6 @@
 ---
 layout: collection
-permalink: /about/
+permalink: /about
 title: "About"
 excerpt: "PA JHipster generator is a generates that enables you to generate process awareness web application."
 last_modified_at: 2019-12-03T15:46:43-04:00

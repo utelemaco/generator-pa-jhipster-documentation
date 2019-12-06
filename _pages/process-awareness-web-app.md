@@ -1,6 +1,6 @@
 ---
 layout: collection
-permalink: /process-awareness-web-app/
+permalink: /process-awareness-web-app
 title: "Process Awareness Web Application"
 excerpt: "Process Awareness Web Application."
 last_modified_at: 2019-12-03T15:46:43-04:00
