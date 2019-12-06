@@ -10,7 +10,7 @@ toc: true
 
 The current version of the PA JHipster is based on the JHipster 4.13.3 and the architecture of the web application generated is based on the following technology stack:
 
-![Web App Architecture](/assets/images/pa-web-app-architecture.png)
+![Web App Architecture](../assets/images/pa-web-app-architecture.png)
 
 * Camunda (process engine)
 * AngularJS (client-side)
