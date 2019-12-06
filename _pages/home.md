@@ -17,28 +17,23 @@ feature_row:
     alt: "customizable"
     title: "Process Awareness Web Applications"
     excerpt: "Do you know what is a process awareness application?"
-    url: "/process-awareness-web-app/"
+    url: "/process-awareness-web-app"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - _image_path: /assets/images/mm-responsive-feature.png
     alt: "Integrated"
     title: "Nativelly Integrated with Camunda"
     excerpt: "The web application generated are fully integrated with Camunda Engine."
-    url: "/docs/web-app-architecture/"
+    url: "/docs/web-app-architecture"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - _image_path: /assets/images/mm-free-feature.png
     alt: "100% free"
     title: "100% free"
     excerpt: "Free to use. Install and use it!"
-    url: "/license/"
+    url: "/license"
     btn_class: "btn--primary"
     btn_label: "Learn more" 
-sponsors_row:
-  - image_path: http://www.owse.com.br/wp-content/uploads/2016/10/logo1.png     
-    alt: "100% free"
-    title: "100% free"
-    url: "http://www.owse.com.br/"
 ---
 
 {% include feature_row %}
