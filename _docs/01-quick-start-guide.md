@@ -1,6 +1,6 @@
 ---
 title: "Quick-Start Guide"
-permalink: /docs/quick-start-guide/
+permalink: /docs/quick-start-guide
 excerpt: "How to quickly learn, install and setup the PA JHipster generator."
 last_modified_at: 2019-12-03T21:36:11-04:00
 redirect_from:

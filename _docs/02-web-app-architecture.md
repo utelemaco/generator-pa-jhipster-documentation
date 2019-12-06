@@ -1,6 +1,6 @@
 ---
 title: "Web App Architecture"
-permalink: /docs/quick-start-guide
+permalink: /docs/web-app-architecture
 excerpt: "A brief description of the generated web app."
 last_modified_at: 2019-12-03T21:36:11-04:00
 redirect_from:

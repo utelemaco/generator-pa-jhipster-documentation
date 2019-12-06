@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About"
-    url: /about/
+    url: /about
   - title: "Documentation"
     url: /docs
   # - title: "About"
@@ -16,11 +16,11 @@ main:
 
 pages:
   - title: "Process Awareness Web App"
-    url: /process-awareness-web-app/
+    url: /process-awareness-web-app
   - title: "About"
-    url: /about/
+    url: /about
   - title: "License"
-    url: /license/
+    url: /license
 
 
 
@@ -29,14 +29,14 @@ docs:
   - title: Getting Started
     children:
       - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
+        url: /docs/quick-start-guide
       - title: "Web App Architecture"
-        url: /docs/web-app-architecture/
+        url: /docs/web-app-architecture
   - title: Examples
     children:
       - title: "Blueprint Example"
-        url: /docs/blueprint-example/
+        url: /docs/blueprint-example
       - title: "Service Tasks"
-        url: /docs/service-tasks/  
+        url: /docs/service-tasks
       - title: "Gateways"
-        url: /docs/gateways/  
+        url: /docs/gateways
